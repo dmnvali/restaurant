@@ -16,7 +16,6 @@ import slider6 from   '../assets/slider6.JPG';
 import slider7 from   '../assets/slider7.JPG';
 import slider8 from   '../assets/slider8.JPG';
 import slider9 from   '../assets/slider9.JPG';
-import slider10 from  '../assets/slider10.JPG';
 import slider11 from '../assets/slider11.JPG';
 import slider12 from '../assets/slider12.JPG';
 import slider13 from "../assets/slider13.JPG"
@@ -37,7 +36,6 @@ const HomePage: React.FC = () => {
     slider13,
     slider12,
     slider11,
-    slider10,
     slider9,
     slider8,
     slider4,
